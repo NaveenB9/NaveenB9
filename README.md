@@ -1,7 +1,11 @@
 ## Hi there 👋 I'm Naveen
-
+<div align="center">
+<img  
+src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=440&height=74&lines=Fullstack+Dev%7CJava+Springboot+React+; alt="Typing SVG" />
+</div>
+---
 # 💫 About Me:
-🔭 I’m currently working on:<br>- Production-grade Java Spring Boot microservices with API Gateway, Security, Monitoring, and CI/CD<br>- Full-stack applications using Java 21, Spring Boot 3, React, Docker, and cloud-native patterns<br><br>👯 I’m looking to collaborate on:<br>- Open-source Java / Spring Boot projects<br>- Backend-heavy systems with real-world scale and impact<br><br>🤔 I’m looking for help with:<br>- Microservices scalability and system design<br>- Cloud deployments and observability best practices<br><br>🌱 I’m currently learning:<br>- Advanced microservices patterns (Saga, CQRS, Event-driven architecture)<br>- Kubernetes, OpenShift, and modern DevOps workflows<br>- Practical use of AI tools in software development<br><br>💬 Ask me about:<br>- Java, Spring Boot, REST APIs, and Microservices<br>- Backend architecture and production-ready systems<br><br>⚡ Fun fact: I enjoy simplifying complex systems more than adding new frameworks.<br>
+🔭 I’m currently working on:<br>- Production-grade Java Spring Boot microservices with API Gateway, Security, Monitoring, and CI/CD<br>- Full-stack applications using Latest Techstack Java, Spring Boot, React, Docker, and cloud-native patterns<br><br>👯 I’m looking to collaborate on:<br>- Open-source Java / Spring Boot projects<br>- Backend-heavy systems with real-world scale and impact<br><br>🤔 I’m looking for help with:<br>- Microservices scalability and system design<br>- Cloud deployments and observability best practices<br><br>🌱 I’m currently learning:<br>- Advanced microservices patterns (Saga, CQRS, Event-driven architecture)<br>- Kubernetes, OpenShift, and modern DevOps workflows<br>- Practical use of AI tools in software development<br><br>💬 Ask me about:<br>- Java, Spring Boot, REST APIs, and Microservices<br>- Backend architecture and production-ready systems<br><br>⚡ Fun fact: I enjoy simplifying complex systems more than adding new frameworks.<br>
 
 
 ## 🌐 Socials:
