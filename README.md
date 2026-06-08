@@ -1,12 +1,11 @@
 ## Hi there 👋 I'm Naveen
 <div align="center">
 <img  
-src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=440&height=74&lines=Fullstack+Dev%7CJava+Springboot+React+; alt="Typing SVG" />
+src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Java+Backend%7CJava+Springboot+Developer; alt="Typing SVG" />
 </div>
-
 ## 💫 About Me:
 
-<br/>Full-Stack Engineer with 3+ years of experience building secure, scalable enterprise applications using Java, Spring Boot, and Microservices architecture.<br>
+<br/>Java Backend Developer with 3+ years of experience building secure, scalable enterprise applications using Java, Spring Boot, and Microservices architecture.<br>
 <br/>I specialize in designing high-performance backend systems and APIs for banking and payment platforms, with a strong focus on system reliability, security, and real-world production environments.<br/>
 
 
